@@ -1,2 +1,1 @@
-# git_example_files
-Keeps example files
+This my first repository where I keep my python project files.
